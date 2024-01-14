@@ -14,7 +14,7 @@ The inaugural Yorkicorns meetup will take place on **Saturday 3<sup>rd</sup> Feb
 
 From **10:00**, the pre-meet begins at the **Costa Coffee located on platform 9 of York Railway Station** (postcode YO24 1AB).
 
-At **11:00**, we'll depart and walk approximately one mile to the main meet location through the city centre, via George Hudson Street, Micklegate and Piccadilly. 
+At **11:00**, we'll depart and walk approximately one mile to the main meet location through the city centre, via George Hudson Street, Micklegate and Piccadilly. Alternatively, take the number 7 bus from outside the station to the Barbican, and then walk approximately 200m.
 
 Around **11:30**, we'll arrive at [**The Postern Gate**](https://www.jdwetherspoon.com/pubs/all-pubs/england/north-yorkshire/the-postern-gate-york), a Wetherspoons pub located on Piccadilly (postcode YO1 9NX).
 
