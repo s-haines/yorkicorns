@@ -22,6 +22,8 @@ A key task for the attendees of the inaugural Yorkicorns meet shall be to design
 
 The meet is expected to wrap up around **15:00**, although may go on later depending on individual's preferences.
 
+If you plan to attend, please let us know to expect you by posting in our Discord server.
+
 # Future Events
 
 Future dates for Yorkicorns are as below. Details for each event will be published on this page shortly after the preceding event.
