@@ -27,7 +27,7 @@ The meet is expected to wrap up around **15:00**, although may go on later depen
 Future dates for Yorkicorns are as below. Details for each event will be published on this page shortly after the preceding event.
 
 * Saturday 3<sup>rd</sup> February 2024
-* Saturday 3<sup>rd</sup> March 2024
+* Saturday 2<sup>nd</sup> March 2024
 * Saturday 6<sup>th</sup> April 2024
 * Saturday 4<sup>th</sup> May 2024
 
