@@ -2,14 +2,35 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Yorkicorns
 
-[Link to another page](./another-page.html).
+Yorkicorns is the York brony meetup.
 
-There should be whitespace between paragraphs.
+Founded by Bexi and Maz in January 2024, Yorkicorns is a social meetup that aims to promote friendship amongst bronies in the York area and further afield.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Next Meet-Up: Saturday 3<sup>rd</sup> February 2024
 
-# Header 1
+The inaugural Yorkicorns meetup will take place on **Saturday 3<sup>rd</sup> February 2024**.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+From **10:00**, the pre-meet begins at the **Costa Coffee located on platform 9 of York Railway Station** (postcode YO24 1AB).
+
+At **11:00**, we'll depart and walk approximately one mile to the main meet location through the city centre, via George Hudson Street, Micklegate and Piccadilly. 
+
+Around **11:30**, we'll arrive at [**The Postern Gate**](https://www.jdwetherspoon.com/pubs/all-pubs/england/north-yorkshire/the-postern-gate-york), a Wetherspoons pub located on Piccadilly (postcode YO1 9NX).
+
+A key task for the attendees of the inaugural Yorkicorns meet shall be to design the mascot for the group.
+
+The meet is expected to wrap up around **15:00**, although may go on later depending on individual's preferences.
+
+# Future Events
+
+Future dates for Yorkicorns are as below. Details for each event will be published on this page shortly after the preceding event.
+
+* Saturday 3<sup>rd</sup> February 2024
+* Saturday 3<sup>rd</sup> March 2024
+* Saturday 6<sup>th</sup> April 2024
+* Saturday 4<sup>th</sup> May 2024
+
+# Join us on Discord
+
+The Yorkicorns Discord Server is where we plan and discuss the Yorkicorns meets. Join us on the server at [https://discord.gg/eppCj648ue](https://discord.gg/eppCj648ue).
