@@ -20,7 +20,7 @@ Around **11:30**, we'll arrive at [**The Postern Gate**](https://www.jdwetherspo
 
 A key task for the attendees of the inaugural Yorkicorns meet shall be to design the mascot for the group.
 
-The meet is expected to wrap up around **15:00**, although may go on later depending on individual's preferences.
+The meet is expected to wrap up around **15:00**, although may go on later depending on how we feel and our journeys home.
 
 If you plan to attend, please let us know to expect you by posting in our Discord server.
 
