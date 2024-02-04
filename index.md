@@ -36,3 +36,20 @@ Future dates for Yorkicorns are as below. Details for each event will be publish
 # Join us on Discord
 
 The Yorkicorns Discord Server is where we plan and discuss the Yorkicorns meets. Join us on the server at [https://discord.gg/eppCj648ue](https://discord.gg/eppCj648ue).
+
+# Mascot
+
+Yorkicorns has two mascots: Björk the York Yakicorn (yak with unicorn horn) and Freya. Look out for exclusive merchandise of our mascots, available freely to attendees of Yorkicorns.
+
+# Meet Reports
+
+After each meet, we write a Meet Report, describing the meet from the author's perspective. Find them below.
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
