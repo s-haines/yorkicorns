@@ -3,6 +3,7 @@ layout: post
 title:  "Meet Report: Meet #1, Saturday 3rd February 2024"
 excerpt_separator: <!--more-->
 tag: meet-report
+author: Maz
 ---
 
 As Bexi and I waited for the bus into the city, we still weren’t quite sure 
