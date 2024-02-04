@@ -46,6 +46,8 @@ As a gift to attendees, I had printed small stickers saying “I went to Yorkico
 Yorkicorns #1”, which were both well received and now feature on a phone, tablet 
 and laptop.
 
+![Stickers on Aurora's laptop](/assets/images/meet-1-stickers.jpg)
+
 An important task for attendees of Yorkicorns #1 was to design the mascot. With 
 York’s huge history, there was a lot to draw upon. The consensus trended towards 
 a yak with a unicorn horn (or “yakicorn”, if you will), wearing a helmet, 
@@ -53,6 +55,8 @@ reminiscent of typical Viking imagery. Names such as Astrid, Alruna were suggest
 although the most popular seemed to be Björk (like York). PiratPeter applied 
 himself and we quickly had a sketch of Björk the York yakicorn. A second mascot 
 named “Freya” was also agreed upon.
+
+![Sketches of mascots Björk and Freya by PiratPeter](/assets/images/meet-1-mascot-by-piratpeter.jpg)
 
 Before we knew it, it was 3pm and the scheduled end of the meet. Two had to leave to 
 begin their journeys home, while Bexi treated the rest of us to a guided tour of 
