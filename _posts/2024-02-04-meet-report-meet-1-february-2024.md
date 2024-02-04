@@ -2,11 +2,8 @@
 layout: post
 title:  "Meet Report: Meet #1, Saturday 3rd February 2024"
 excerpt_separator: <!--more-->
+tag: meet-report
 ---
-
-# Meet Report: Meet #1, Saturday 3<sup>rd</sup> February 2024
-
-*By Maz, on Sunday 4<sup>th</sup> February 2024.*
 
 As Bexi and I waited for the bus into the city, we still weren’t quite sure 
 what to expect for the first Yorkicorns meet. We knew that some people had 
