@@ -48,7 +48,7 @@ After each meet, we write a Meet Report, describing the meet from the author's p
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>, by {{ post.author }}
       {{ post.excerpt }}
     </li>
   {% endfor %}
