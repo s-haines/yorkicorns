@@ -38,6 +38,8 @@ others came from as far as Carlisle (100 miles as the crow flies), Leicester
 (90 miles), Lancaster (70 miles), Nottingham (70 miles), and Manchester (65 
 miles) – some valiant efforts!
 
+![Plushies on the table](/assets/images/meet-1-plushies.jpg)
+
 There was a constant stream of food and drinks delivered to our table courtesy of 
 the Wetherspoons app (although we were only informed by a staff member toward the 
 end of the meet that we had misread our table’s number as “9” instead of “6”). 
