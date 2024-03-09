@@ -28,6 +28,7 @@ Future dates for Yorkicorns are as below. Details for each event will be publish
 
 * Saturday 6<sup>th</sup> April 2024
 * Saturday 4<sup>th</sup> May 2024
+* Saturday 1<sup>st</sup> June 2024
 
 # Join us on Discord
 
