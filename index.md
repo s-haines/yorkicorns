@@ -8,9 +8,9 @@ Yorkicorns is the York brony meetup.
 
 Founded by Bexi and Maz in January 2024, Yorkicorns is a social meetup that aims to promote friendship amongst bronies in the York area and further afield.
 
-# Next Meet-Up: Saturday 2<sup>nd</sup> March 2024
+# Next Meet-Up: Saturday 6<sup>th</sup> Aprril 2024
 
-The second Yorkicorns meetup will take place on **Saturday 2<sup>nd</sup> March 2024**.
+The second Yorkicorns meetup will take place on **Saturday 6<sup>th</sup> April 2024**.
 
 From **10:00**, the pre-meet begins at the **The Coffee Room located on platform 9 of York Railway Station** (postcode YO24 1AB).
 
@@ -26,7 +26,6 @@ If you plan to attend, please let us know to expect you by posting in our Discor
 
 Future dates for Yorkicorns are as below. Details for each event will be published on this page shortly after the preceding event.
 
-* Saturday 2<sup>nd</sup> March 2024
 * Saturday 6<sup>th</sup> April 2024
 * Saturday 4<sup>th</sup> May 2024
 
@@ -36,7 +35,15 @@ The Yorkicorns Discord Server is where we plan and discuss the Yorkicorns meets.
 
 # Mascot
 
-Yorkicorns has two mascots: Björk the York Yakicorn (yak with unicorn horn) and Freya. Look out for exclusive merchandise of our mascots, available freely to attendees of Yorkicorns.
+Yorkicorns has two mascots: Björk the York Yakicorn (yak with unicorn horn) and Freya the Valkyrie. 
+
+![Yorkicorns mascot reference sheet](/assets/images/Yorkicorn_Turnarounds_800.jpg)
+
+PiratPeter generously created the above reference sheet ([full size here](/assets/images/Yorkicorn_Turnarounds_full.jpg)), showing Björk and Freya in all their glory. PiratPeter also created the crest of Yorkicorns ([full size here](/assets/images/Yorkicorn_Cutiemark_Vector_full.png)), modelled on the coat of arms of the City of York council, but reshaped into a bubble tea with boba replacing the heraldic lions:
+
+![Yorkicorns crest](/assets/images/Yorkicorn_Cutiemark_Vector_500_with_background.png)
+
+Look out for exclusive merchandise of our mascots and crest, available freely to attendees of Yorkicorns.
 
 # Meet Reports
 
