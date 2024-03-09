@@ -47,7 +47,7 @@ I also made an effort at sketching Björk with limited success:
 ![Björk by Maz](/assets/images/meet-2-bjork-by-maz.jpg)
 
 As more people arrived, we commandeered more tables, creating a table snake. Most 
-at nearby tables took no notice of us, but a few looked in in surprise at the 
+at nearby tables took no notice of us, but a few looked on in surprise at the 
 colour ponies decorating our table. Stickers made a return too:
 
 ![Plushie with sticker saying Yorkicorns Meet Certified cutie](/assets/images/meet-2-certified-cutie.jpg)
