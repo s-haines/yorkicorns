@@ -8,7 +8,7 @@ Yorkicorns is the York brony meetup.
 
 Founded by Bexi and Maz in January 2024, Yorkicorns is a social meetup that aims to promote friendship amongst bronies in the York area and further afield.
 
-# Next Meet-Up: Saturday 6<sup>th</sup> Aprril 2024
+# Next Meet-Up: Saturday 6<sup>th</sup> April 2024
 
 The second Yorkicorns meetup will take place on **Saturday 6<sup>th</sup> April 2024**.
 
