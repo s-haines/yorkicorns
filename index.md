@@ -10,7 +10,7 @@ Founded by Bexi and Maz in January 2024, Yorkicorns is a social meetup that aims
 
 # Next Meet-Up: Saturday 4<sup>th</sup> May 2024
 
-The second Yorkicorns meetup will take place on **Saturday 4<sup>th</sup> May 2024**.
+The fourth Yorkicorns meetup will take place on **Saturday 4<sup>th</sup> May 2024**.
 
 From **10:00**, the pre-meet begins at the **The Coffee Room located on platform 9 of York Railway Station** (postcode YO24 1AB). Unless there's another train strike, in which case the meet starts early at The Postern Gate (see below).
 
