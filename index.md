@@ -8,17 +8,17 @@ Yorkicorns is the York brony meetup.
 
 Founded by Bexi and Maz in January 2024, Yorkicorns is a social meetup that aims to promote friendship amongst bronies in the York area and further afield.
 
-# Next Meet-Up: Saturday 4<sup>th</sup> May 2024
+# Next Meet-Up: Saturday 1<sup>st</sup> June 2024
 
-The fourth Yorkicorns meetup will take place on **Saturday 4<sup>th</sup> May 2024**.
+The fifth Yorkicorns meetup will take place on **Saturday 1<sup>st</sup> June 2024**.
 
-From **10:00**, the pre-meet begins at the **The Coffee Room located on platform 9 of York Railway Station** (postcode YO24 1AB). Unless there's another train strike, in which case the meet starts early at The Postern Gate (see below).
+From **10:00**, the pre-meet may begin at the **The Coffee Room located on platform 9 of York Railway Station** (postcode YO24 1AB). Check in our Discord server if anyone is likely to attend the railway station pre-meet.
 
 At **10:30**, we'll depart and walk approximately one mile to the main meet location through the city centre, via George Hudson Street, Micklegate and Piccadilly. Alternatively, take the number 7 bus from outside the station to the Barbican, and then walk approximately 200m.
 
-Around **11:00**, we'll arrive at [**The Postern Gate**](https://www.jdwetherspoon.com/pubs/all-pubs/england/north-yorkshire/the-postern-gate-york), a Wetherspoons pub located on Piccadilly (postcode YO1 9NX).
+The main meet begins around **11:00** at [**The Postern Gate**](https://www.jdwetherspoon.com/pubs/all-pubs/england/north-yorkshire/the-postern-gate-york), a Wetherspoons pub located on Piccadilly (postcode YO1 9NX).
 
-The meet is expected to wrap up around **15:00**, although may go on later depending on how we feel and our journeys home.
+The meet at The Postern Gate is expected to wrap up around **15:00**. After this, we usually go for a walk into town, get some bubble tea and explore a few shops, although exactly what we do depends on how we feel and our journeys home.
 
 If you plan to attend, please let us know to expect you by posting in our Discord server.
 
@@ -26,8 +26,8 @@ If you plan to attend, please let us know to expect you by posting in our Discor
 
 Future dates for Yorkicorns are as below. Details for each event will be published on this page shortly after the preceding event.
 
-* Saturday 4<sup>th</sup> May 2024
 * Saturday 1<sup>st</sup> June 2024
+* Saturday 6<sup>th</sup> July 2024
 
 # Join us on Discord
 
