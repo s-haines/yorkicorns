@@ -12,13 +12,13 @@ Founded by Bexi and Maz in January 2024, Yorkicorns is a social meetup that aims
 
 The fifth Yorkicorns meetup will take place on **Saturday 1<sup>st</sup> June 2024**.
 
-From **10:00**, the pre-meet may begin at the **The Coffee Room located on platform 9 of York Railway Station** (postcode YO24 1AB). Check in our Discord server if anyone is likely to attend the railway station pre-meet.
+From **10:00**, the pre-meet will begin near the **Costa Coffee located on platform 9 of York Railway Station** (postcode YO24 1AB). Early ponies can join Maz for some coffee and train spotting, on what will be the first Yorkicorns meet without train strikes. Note that there is limited seating in this area.
 
 At **10:30**, we'll depart and walk approximately one mile to the main meet location through the city centre, via George Hudson Street, Micklegate and Piccadilly. Alternatively, take the number 7 bus from outside the station to the Barbican, and then walk approximately 200m.
 
 The main meet begins around **11:00** at [**The Postern Gate**](https://www.jdwetherspoon.com/pubs/all-pubs/england/north-yorkshire/the-postern-gate-york), a Wetherspoons pub located on Piccadilly (postcode YO1 9NX).
 
-The meet at The Postern Gate is expected to wrap up around **15:00**. After this, we usually go for a walk into town, get some bubble tea and explore a few shops, although exactly what we do depends on how we feel and our journeys home.
+The meet at The Postern Gate is expected to wrap up around **15:00**. After this, one contingent is going to a cat cafe, while the other may go for a walk into town, get some bubble tea and explore a few shops, although exactly what we do depends on how we feel and our journeys home.
 
 If you plan to attend, please let us know to expect you by posting in our Discord server.
 
@@ -28,6 +28,7 @@ Future dates for Yorkicorns are as below. Details for each event will be publish
 
 * Saturday 1<sup>st</sup> June 2024
 * Saturday 6<sup>th</sup> July 2024
+* Saturday 3<sup>rd</sup> August 2024
 
 # Join us on Discord
 
