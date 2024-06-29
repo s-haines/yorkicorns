@@ -6,7 +6,7 @@ tag: meet-report
 author: Maz
 ---
 
-The meet took place as planned on 1st June 2024.
+The meet took place as planned on 1<sup>st</sup> June 2024.
 
 <!--more-->
 
