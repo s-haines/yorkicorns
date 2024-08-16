@@ -8,9 +8,9 @@ Yorkicorns is the York brony meetup.
 
 Founded by Bexi and Maz in January 2024, Yorkicorns is a social meetup that aims to promote friendship amongst bronies in the York area and further afield.
 
-# Next Meet-Up: Saturday 18<sup>th</sup> August 2024
+# Next Meet-Up: Sunday 18<sup>th</sup> August 2024
 
-The seventh Yorkicorns meetup will take place on **Saturday 18<sup>th</sup> August 2024**.
+The seventh Yorkicorns meetup will take place on **Sunday 18<sup>th</sup> August 2024**.
 
 From **10:00**, the pre-meet will begin near the **Costa Coffee located on platform 9 of York Railway Station** (postcode YO24 1AB). Early ponies can join Maz for some coffee and train spotting, on what will be the first Yorkicorns meet without train strikes. Note that there is limited seating in this area.
 
@@ -26,7 +26,7 @@ If you plan to attend, please let us know to expect you by posting in our Discor
 
 Future dates for Yorkicorns are as below. Details for each event will be published on this page shortly after the preceding event. Please be sure to check this website closer to the event, in case of any changes or cancellations.
 
-* Saturday 18<sup>th</sup> August 2024
+* Sunday 18<sup>th</sup> August 2024
 * Saturday 7<sup>th</sup> September 2024
 
 # Join us on Discord
