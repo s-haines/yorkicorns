@@ -6,7 +6,7 @@ tag: meet-report
 author: Maz
 ---
 
-The eighth meet took place as planned on 1<sup>st</sup> December 2024.
+The tenth meet took place as planned on 1<sup>st</sup> December 2024.
 
 <!--more-->
 
