@@ -10,7 +10,7 @@ Founded by Bexi and Maz in January 2024, Yorkicorns is a social meetup that aims
 
 # Next Meet-Up: Saturday 11<sup>th</sup> January 2025
 
-The Nth Yorkicorns meetup will take place on **Saturday 11<sup>th</sup> January 2025**.
+The 11<sup>th</sup> Yorkicorns meetup will take place on **Saturday 11<sup>th</sup> January 2025**.
 
 The meet begins around **11:00** at [**The Postern Gate**](https://www.jdwetherspoon.com/pubs/all-pubs/england/north-yorkshire/the-postern-gate-york), a Wetherspoons pub located on Piccadilly (postcode YO1 9NX).
 
