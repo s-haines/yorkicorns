@@ -8,13 +8,15 @@ Yorkicorns is the York brony meetup.
 
 Founded by Bexi and Maz in January 2024, Yorkicorns is a social meetup that aims to promote friendship amongst bronies in the York area and further afield.
 
-# Next Meet-Up: Sunday 11<sup>th</sup> May 2025
+# Next Meet-Up: Saturday 14<sup>th</sup> June 2025
 
-The 15<sup>th</sup> Yorkicorns meetup will take place on **Sunday 11<sup>th</sup> May 2025**.
+The 16<sup>th</sup> Yorkicorns meetup will take place on **Saturday 14<sup>th</sup> June 2025**.
 
-The meet begins around **11:00** at [**The Postern Gate**](https://www.jdwetherspoon.com/pubs/all-pubs/england/north-yorkshire/the-postern-gate-york), a Wetherspoons pub located on Piccadilly (postcode YO1 9NX).
- 
- The meet at The Postern Gate is expected to wrap up around **15:00**. After this, we typically take a walk around the historic city, getting some bubble tea and exploring a few shops, although exactly what we do depends on how we feel and our journeys home.
+The meet begins around **11:00** outside Cuppa Joy (our usual boba shop) in St Helen's Square, before we head to Museum Gardens for a picnic in the [hopefully] nice weather!
+
+Some food and drink will be provided, although we'd welcome any other contributions to the spread. A Sainsbury's Local convenience store is nearby for any last minute purchases.
+
+We expect the meet to wrap up around **15:00**. 
 
 If you plan to attend, please let us know to expect you by posting in our Discord server.
 
@@ -22,7 +24,6 @@ If you plan to attend, please let us know to expect you by posting in our Discor
 
 Future dates for Yorkicorns are as below. Details for each event will be published on this page shortly after the preceding event. Please be sure to check this website closer to the event, in case of any changes or cancellations.
 
-* Sunday 11<sup>th</sup> May 2025
 * Saturday 14<sup>th</sup> June 2025
 * TBC July 2025
 * Sunday 3<sup>rd</sup> August 2025
