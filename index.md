@@ -22,7 +22,7 @@ If you plan to attend, please let us know to expect you by posting in our Discor
 
 Future dates for Yorkicorns are as below. Details for each event will be published on this page shortly after the preceding event. Please be sure to check this website closer to the event, in case of any changes or cancellations.
 
-* Saturday 18<sup>th</sup>October 2025
+* Saturday 18<sup>th</sup> October 2025
 * Saturday 8<sup>th</sup> November 2025
 * Saturday 6<sup>th</sup> December 2025
 
