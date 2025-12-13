@@ -14,7 +14,7 @@ The 22<sup>nd</sup> Yorkicorns meetup will take place on **Saturday 10<sup>th</s
 
 The meet begins at **11:00** at The Postern Gate, a Wetherspoons pub located on Piccadilly in York city centre. After brunch and lunch, we tend to go for a walk into town, browse the shops and get boba.
 
-We expect the meet to wrap up around **15:00**. 
+We expect the pub period of the meet to wrap up around **15:00**. 
 
 If you plan to attend, please let us know to expect you by posting in our Discord server.
 
