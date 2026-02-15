@@ -14,7 +14,7 @@ The 24<sup>th</sup> Yorkicorns meetup will take place on **Saturday 21<sup>st</s
 
 The meet begins at **11:00** at Friargate Quaker Meeting House with a party spread and party games to celebrate the second anniversary of Yorkicorns.
 
-We expect the the meet to wrap up around **15:00**. 
+We expect the meet to wrap up around **15:00**. 
 
 If you plan to attend, please let us know to expect you by posting in our Discord server.
 
