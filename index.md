@@ -8,11 +8,11 @@ Yorkicorns is the York brony meetup.
 
 Founded by Bexi and Maz in January 2024, Yorkicorns is a social meetup that aims to promote friendship amongst bronies in the York area and further afield.
 
-# Next Meet-Up: Saturday 10<sup>th</sup> January 2026
+# Next Meet-Up: Saturday 21<sup>st</sup> March 2026
 
-The 22<sup>nd</sup> Yorkicorns meetup will take place on **Saturday 10<sup>th</sup> January 2026**.
+The 24<sup>th</sup> Yorkicorns meetup will take place on **Saturday 21<sup>st</sup> March 2026**.
 
-The meet begins at **11:00** at The Postern Gate, a Wetherspoons pub located on Piccadilly in York city centre. After brunch and lunch, we tend to go for a walk into town, browse the shops and get boba.
+The meet begins at **11:00** at Friargate Quaker Meeting House with a party spread and party games to celebrate the second anniversary of Yorkicorns.
 
 We expect the pub period of the meet to wrap up around **15:00**. 
 
@@ -22,8 +22,6 @@ If you plan to attend, please let us know to expect you by posting in our Discor
 
 Future dates for Yorkicorns are as below. Details for each event will be published on this page shortly after the preceding event. Please be sure to check this website closer to the event, in case of any changes or cancellations.
 
-* Saturday 10<sup>th</sup> January 2026
-* Saturday 21<sup>st</sup> February 2026
 * Saturday 7<sup>th</sup> March 2026
 * Saturday 11<sup>th</sup> April 2026
 
