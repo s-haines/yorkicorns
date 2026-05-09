@@ -23,8 +23,12 @@ If you plan to attend, please let us know to expect you by posting in our Discor
 Future dates for Yorkicorns are as below. Details for each event will be published on this page shortly after the preceding event. Please be sure to check this website closer to the event, in case of any changes or cancellations.
 
 * Saturday 9<sup>th</sup> May 2026
+* Saturday 30<sup>th</sup> May 2026 (**York Pride bonus meet**)
 * Sunday 7<sup>th</sup> June 2026 (**late 12pm start**)
 * Saturday 4<sup>th</sup> July 2026
+* Sunday 9<sup>th</sup> August 2026
+* Saturday 5<sup>th</sup> September 2026
+* Saturday 3<sup>rd</sup> October 2026
 
 # Join us on Discord
 
