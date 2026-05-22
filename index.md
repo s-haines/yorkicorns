@@ -8,22 +8,23 @@ Yorkicorns is the York brony meetup.
 
 Founded by Bexi and Maz in January 2024, Yorkicorns is a social meetup that aims to promote friendship amongst bronies in the York area and further afield.
 
-# Next Meet-Up: Saturday 9<sup>th</sup> May 2026
+# Next Meet-Up: Saturday 30<sup>th</sup> May 2026 - **York Pride Special Event**
 
-The 26<sup>th</sup> Yorkicorns meetup will take place on **Saturday 9<sup>th</sup> May 2026**.
+The 27<sup>th</sup> Yorkicorns meetup will take place on **Saturday 30<sup>th</sup> May 2026** as a special York Pride celebration!
 
-The meet begins at **11:00** at The Postern Gate, a Wetherspoons pub located on Piccadilly in York city centre. After brunch and lunch, we tend to go for a walk into town, browse the shops and get boba.
+**Meeting Time:** **10:30am** outside Marks & Spencer, Stonegate, York YO1 8AJ
 
-We expect the pub period of the meet to wrap up around **15:00**. 
+Join us for York Pride! We'll be meeting outside Marks & Spencer in the city centre, then marching together with the Pride parade through York's streets. After the parade, we'll head to the festival on the Knavesmere to celebrate Pride with the wider community.
+
+This is a fantastic opportunity to be part of York's Pride celebrations while spending time with the Yorkicorns community!
 
 If you plan to attend, please let us know to expect you by posting in our Discord server.
 
 # Future Events
 
-Future dates for Yorkicorns are as below. Details for each event will be published on this page shortly after the preceding event. Please be sure to check this website closer to the event, in case of any changes or cancellations.
+Future dates for Yorkicorns are as below. Details for each event will be published on this page shortly after the preceding event. Please be sure to check this website closer to the event, in case details change.
 
-* Saturday 9<sup>th</sup> May 2026
-* Saturday 30<sup>th</sup> May 2026 (**York Pride bonus meet**)
+* Saturday 30<sup>th</sup> May 2026 (**York Pride special event - 10:30am start**)
 * Sunday 7<sup>th</sup> June 2026 (**late 12pm start**)
 * Saturday 4<sup>th</sup> July 2026
 * Sunday 9<sup>th</sup> August 2026
@@ -40,7 +41,7 @@ Yorkicorns has two mascots: Björk the York Yakicorn (yak with unicorn horn) and
 
 ![Yorkicorns mascot reference sheet](/assets/images/Yorkicorn_Turnarounds_800.jpg)
 
-PiratPeter generously created the above reference sheet ([full size here](/assets/images/Yorkicorn_Turnarounds_full.jpg)), showing Björk and Freya in all their glory. PiratPeter also created the crest of Yorkicorns ([full size here](/assets/images/Yorkicorn_Cutiemark_Vector_full.png)), modelled on the coat of arms of the City of York council, but reshaped into a bubble tea with boba replacing the heraldic lions:
+PiratPeter generously created the above reference sheet ([full size here](/assets/images/Yorkicorn_Turnarounds_full.jpg)), showing Björk and Freya in all their glory. PiratPeter also created the Yorkicorns crest.
 
 ![Yorkicorns crest](/assets/images/Yorkicorn_Cutiemark_Vector_500_with_background.png)
 
