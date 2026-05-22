@@ -14,7 +14,7 @@ The 27<sup>th</sup> Yorkicorns meetup will take place on **Saturday 30<sup>th</s
 
 **Meeting Time:** **10:30am** outside Marks & Spencer, Stonegate, York YO1 8AJ
 
-Join us for York Pride! We'll be meeting outside Marks & Spencer in the city centre, then marching together with the Pride parade through York's streets. After the parade, we'll head to the festival on the Knavesmere to celebrate Pride with the wider community.
+Join us for York Pride! We'll be meeting outside Marks & Spencer in the city centre, then marching together with the Pride parade through York's streets. After the parade, we'll head to the festival on the Knavesmire to celebrate Pride with the wider community.
 
 This is a fantastic opportunity to be part of York's Pride celebrations while spending time with the Yorkicorns community!
 
