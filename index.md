@@ -12,7 +12,7 @@ Founded by Bexi and Maz in January 2024, Yorkicorns is a social meetup that aims
 
 The 27<sup>th</sup> Yorkicorns meetup will take place on **Saturday 30<sup>th</sup> May 2026** as a special York Pride celebration!
 
-**Meeting Time:** **10:30am** outside Marks & Spencer, Stonegate, York YO1 8AJ
+**Meeting Time:** **10:30am** outside Marks & Spencer, Parliament Street, York
 
 Join us for York Pride! We'll be meeting outside Marks & Spencer in the city centre, then marching together with the Pride parade through York's streets. After the parade, we'll head to the festival on the Knavesmire to celebrate Pride with the wider community.
 
