@@ -8,15 +8,15 @@ Yorkicorns is the York brony meetup.
 
 Founded by Bexi and Maz in January 2024, Yorkicorns is a social meetup that aims to promote friendship amongst bronies in the York area and further afield.
 
-# Next Meet-Up: Saturday 30<sup>th</sup> May 2026 - **York Pride Special Event**
+# Next Meet-Up: Sunday 7<sup>th</sup> June 2026
 
-The 27<sup>th</sup> Yorkicorns meetup will take place on **Saturday 30<sup>th</sup> May 2026** as a special York Pride celebration!
+The 28<sup>th</sup> Yorkicorns meetup will take place on **Sunday 7<sup>th</sup> June 2026**.
 
-**Meeting Time:** **10:30am** outside Marks & Spencer, Parliament Street, York
+The meet begins at **12:00** at The Postern Gate, a Wetherspoons pub located on Piccadilly in York city centre. After brunch and lunch, we tend to go for a walk into town, browse the shops and explore the city centre.
 
-Join us for York Pride! We'll be meeting outside Marks & Spencer in the city centre, then marching together with the Pride parade through York's streets. After the parade, we'll head to the festival on the Knavesmire to celebrate Pride with the wider community.
+After time at the pub and in town, we'll head to **Panda Mami world buffet for dinner** (time to be confirmed).
 
-This is a fantastic opportunity to be part of York's Pride celebrations while spending time with the Yorkicorns community!
+We expect the pub period of the meet to wrap up around **15:00**.
 
 If you plan to attend, please let us know to expect you by posting in our Discord server.
 
@@ -24,8 +24,7 @@ If you plan to attend, please let us know to expect you by posting in our Discor
 
 Future dates for Yorkicorns are as below. Details for each event will be published on this page shortly after the preceding event. Please be sure to check this website closer to the event, in case details change.
 
-* Saturday 30<sup>th</sup> May 2026 (**York Pride special event - 10:30am start**)
-* Sunday 7<sup>th</sup> June 2026 (**late 12pm start**)
+* Sunday 7<sup>th</sup> June 2026 (**12pm start at The Postern Gate, dinner at Panda Mami**)
 * Saturday 4<sup>th</sup> July 2026
 * Sunday 9<sup>th</sup> August 2026
 * Saturday 5<sup>th</sup> September 2026
