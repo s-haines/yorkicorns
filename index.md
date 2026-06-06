@@ -12,7 +12,7 @@ Founded by Bexi and Maz in January 2024, Yorkicorns is a social meetup that aims
 
 The 28<sup>th</sup> Yorkicorns meetup will take place on **Sunday 7<sup>th</sup> June 2026**.
 
-The meet begins at **12:00** at The Postern Gate, a Wetherspoons pub located on Piccadilly in York city centre. After brunch and lunch, we tend to go for a walk into town, browse the shops and explore the city centre.
+The meet begins at **12:00** at The Postern Gate, a Wetherspoons pub located on Piccadilly in York city centre. After lunch, we tend to go for a walk into town, browse the shops and explore the city centre.
 
 After time at the pub and in town, we'll head to **Panda Mami world buffet for dinner** (time to be confirmed).
 
