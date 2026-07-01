@@ -14,8 +14,6 @@ The 29<sup>th</sup> Yorkicorns meetup will take place on **Saturday 4<sup>th</su
 
 The meet begins at **12:00** at The Postern Gate, a Wetherspoons pub located on Piccadilly in York city centre. After lunch, we tend to go for a walk into town, browse the shops and explore the city centre.
 
-After time at the pub and in town, we'll head to **Panda Mami world buffet for dinner** (time to be confirmed).
-
 We expect the pub period of the meet to wrap up around **15:00**.
 
 If you plan to attend, please let us know to expect you by posting in our Discord server.
@@ -24,7 +22,7 @@ If you plan to attend, please let us know to expect you by posting in our Discor
 
 Future dates for Yorkicorns are as below. Details for each event will be published on this page shortly after the preceding event. Please be sure to check this website closer to the event, in case details change.
 
-* Saturday 4<sup>th</sup> July 2026 (**12pm start at The Postern Gate, dinner at Panda Mami**)
+* Saturday 4<sup>th</sup> July 2026 (**12pm start at The Postern Gate**)
 * Sunday 9<sup>th</sup> August 2026
 * Saturday 5<sup>th</sup> September 2026
 * Saturday 3<sup>rd</sup> October 2026
